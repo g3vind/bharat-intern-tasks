@@ -2,5 +2,7 @@
 Tasks for Bharat Intern (Remote Unpaid Internship)
 
  
-# Netflix Clone - https://clone-using-html-css-js.netlify.app/
-# Portfolio Website - https://govind-kumar.netlify.app/
+# Task 1
+Netflix Clone - https://clone-using-html-css-js.netlify.app/
+# Task 2 
+Portfolio Website - https://govind-kumar.netlify.app/
